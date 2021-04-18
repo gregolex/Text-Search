@@ -1,6 +1,8 @@
 Author: Greg Kalaydjian
 
  					How to use textSearch.py
+      
+      (MUST HAVE SPECIAL ACCESS TO XSEDE FILE SYSTEM, russian-political-influence.zip file, FacebookAds.csv file)
 
 1. Download russian-political-influence.zip file and extract the file.
 2. Extract the FacebookAds.csv file, we will use this for our program.
